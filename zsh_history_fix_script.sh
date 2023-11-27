@@ -7,4 +7,4 @@ sleep 1
 fc -R ~/.zsh_history
 sleep 1
 rm ~/.zsh_history_bad
-echo "Have a wonderful day :>"
+echo "Finished...Have a wonderful day :>"
