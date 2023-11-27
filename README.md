@@ -1,6 +1,6 @@
-How to use:
+<br>How to use:</br>
 cd ~/bin # or somewhere in your $PATH
-wget https://raw.githubusercontent.com/Moondog85/zsh_history_fix/main/zsh_history_fix_script.sh
+<br>wget https://raw.githubusercontent.com/Moondog85/zsh_history_fix/main/zsh_history_fix_script.sh</br>
 chmod +x zsh_history_fix_script.sh
 ./zsh_history_fix_script.sh
 
